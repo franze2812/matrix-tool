@@ -1,1 +1,5 @@
-{  "versao": "1.0",  "changelog": ["Lancamento Matrix Tool v1.0"],  "download_url": "https://github.com/franze2812/matrix-tool/releases/download/v1.0/MatrixTool_Setup_v1.0.exe",  "obrigatorio": false}
+{
+    "versao": "2.0",
+    "changelog": "- Tira Vírus, Ferramentas e UNISOC redesenhados\n- Novo: Armazenamento, Apps por Tamanho, Limpar Cache, Limpar Navegadores\n- Novo: Instalador de APK em Massa\n- Removidos: Remover Ameaças, Controle Financeiro",
+    "download_url": "https://github.com/franze2812/matrix-tool/releases/download/v2.0/MatrixTool_Setup_v2.0.exe"
+}
