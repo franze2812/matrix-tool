@@ -1,5 +1,5 @@
 {
-      "versao": "2.1",
-      "changelog": "Qualcomm EDL — modo WinUSB, tabela de partições e ações rápidas\n\n- Novo modo de conexão via WinUSB, para aparelhos onde a porta COM não entrega os dados de forma confiável\n- Leitura e parse automático da tabela de partições (GPT)\n- Lista de partições com checkbox: ler/gravar/apagar selecionadas\n- Botões rápidos Wipe Data e Erase FRP\n- Destaque visual (✋ vermelho) nas partições de RF/modem\n- Card de informações do aparelho (modelo, armazenamento, LUNs)\n- Atalho com instruções para instalar o driver WinUSB (Zadig)\n- Correções de bugs no handshake Sahara/Firehose e nas confirmações (ACK) de leitura/gravação/apagamento",
-      "download_url": "https://github.com/franze2812/matrix-tool/releases/download/2.1/MatrixTool_Setup_v2.1.exe"
+  "versao": "2.1",
+  "changelog": "Qualcomm EDL — modo WinUSB, tabela de partições e ações rápidas\n\n- Novo modo de conexão via WinUSB, para aparelhos onde a porta COM não entrega os dados de forma confiável\n- Leitura e parse automático da tabela de partições (GPT)\n- Lista de partições com checkbox: ler/gravar/apagar selecionadas\n- Botões rápidos Wipe Data e Erase FRP\n- Destaque visual (✋ vermelho) nas partições de RF/modem\n- Card de informações do aparelho (modelo, armazenamento, LUNs)\n- Atalho com instruções para instalar o driver WinUSB (Zadig)\n- Correções de bugs no handshake Sahara/Firehose e nas confirmações (ACK) de leitura/gravação/apagamento",
+  "download_url": "https://github.com/franze2812/matrix-tool/releases/download/v2.1/MatrixTool_Setup_v2.1.exe"
 }
